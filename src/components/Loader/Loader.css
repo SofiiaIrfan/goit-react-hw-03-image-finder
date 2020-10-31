@@ -1,16 +1,6 @@
-<<<<<<< HEAD
 .loader_js {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-=======
-.loader_js {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
->>>>>>> e032552d71e3a59588ddf32d9a6561dc6ae9c4a6
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
