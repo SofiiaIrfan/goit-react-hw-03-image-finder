@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .App {
     display: grid;
@@ -5,4 +6,13 @@
     grid-gap: 16px;
     padding-bottom: 24px;
   }
+=======
+
+.App {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 16px;
+    padding-bottom: 24px;
+  }
+>>>>>>> e032552d71e3a59588ddf32d9a6561dc6ae9c4a6
   
